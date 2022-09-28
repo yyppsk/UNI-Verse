@@ -1,0 +1,2 @@
+# UNI-Verse
+The Web Based platform Uni “Verse” comes from the idea of the Unification of Technology &amp; University’s resources spread across a centralized platform. The platform aims to bridge the gap between access to resources for students in the universities(y) and allows them to participate in community-based sharing. The platform also figures out various problems revolving around the traditional systems in the current educational institutions and tries to eliminate or closely solve certain problems.
