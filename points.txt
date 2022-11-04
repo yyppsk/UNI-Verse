@@ -1,0 +1,7 @@
+page 1 Home
+page 2 Study Material Page
+page 3 Request Page
+page 3 Faculty
+page 4 Community
+page 5 Contact us
+page 6 about us
