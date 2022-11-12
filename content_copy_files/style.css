@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/*
+Theme Name: Cyberbank
+Theme URI: https://cyberbank.cmsmasters.net/
+Author: cmsmasters
+Author URI: https://cmsmasters.net/
+Description: Cyberbank theme is the modern bank financial business theme that will attract new customers and business partners to this bank and offer credit programs.  It is a perfect theme for banks, credit companies, mortgage and insurance providers, credit card and electronic money companies.
+Version: 1.0.2
+License:
+License URI:
+Text Domain: cyberbank
+Domain Path: /theme-config/languages
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+
+.sticky,
+.bypostauthor,
+.screen-reader-text {
+  outline: none;
+}
