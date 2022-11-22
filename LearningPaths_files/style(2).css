@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'cmsmasters-demo-icons';
+  src:  url('fonts/cmsmasters-demo-icons.eot?9igx8v');
+  src:  url('fonts/cmsmasters-demo-icons.eot?9igx8v#iefix') format('embedded-opentype'),
+    url('fonts/cmsmasters-demo-icons.ttf?9igx8v') format('truetype'),
+    url('fonts/cmsmasters-demo-icons.woff?9igx8v') format('woff'),
+    url('fonts/cmsmasters-demo-icons.svg?9igx8v#cmsmasters-demo-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="cmsms-demo-icon-"], [class*=" cmsms-demo-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'cmsmasters-demo-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.cmsms-demo-icon-diamond-2:before {
+  content: "\e921";
+}
+.cmsms-demo-icon-present:before {
+  content: "\e922";
+}
+.cmsms-demo-icon-close:before {
+  content: "\e900";
+}
+.cmsms-demo-icon-arrow-3:before {
+  content: "\e901";
+}
+.cmsms-demo-icon-menu:before {
+  content: "\e902";
+}
+.cmsms-demo-icon-phone:before {
+  content: "\e903";
+}
+.cmsms-demo-icon-check:before {
+  content: "\e904";
+}
+.cmsms-demo-icon-check-2:before {
+  content: "\e905";
+}
+.cmsms-demo-icon-arrow-2:before {
+  content: "\e906";
+}
+.cmsms-demo-icon-search:before {
+  content: "\e907";
+}
+.cmsms-demo-icon-app-store:before {
+  content: "\e908";
+}
+.cmsms-demo-icon-arrow:before {
+  content: "\e909";
+}
+.cmsms-demo-icon-card:before {
+  content: "\e90a";
+}
+.cmsms-demo-icon-cards:before {
+  content: "\e90b";
+}
+.cmsms-demo-icon-coin:before {
+  content: "\e90c";
+}
+.cmsms-demo-icon-contact:before {
+  content: "\e90d";
+}
+.cmsms-demo-icon-diamond:before {
+  content: "\e90e";
+}
+.cmsms-demo-icon-download:before {
+  content: "\e90f";
+}
+.cmsms-demo-icon-google-play:before {
+  content: "\e910";
+}
+.cmsms-demo-icon-id:before {
+  content: "\e911";
+}
+.cmsms-demo-icon-idea:before {
+  content: "\e912";
+}
+.cmsms-demo-icon-location:before {
+  content: "\e913";
+}
+.cmsms-demo-icon-login:before {
+  content: "\e914";
+}
+.cmsms-demo-icon-mobile:before {
+  content: "\e915";
+}
+.cmsms-demo-icon-money:before {
+  content: "\e916";
+}
+.cmsms-demo-icon-money-2:before {
+  content: "\e917";
+}
+.cmsms-demo-icon-money-3:before {
+  content: "\e918";
+}
+.cmsms-demo-icon-mortgage:before {
+  content: "\e919";
+}
+.cmsms-demo-icon-phone-call:before {
+  content: "\e91a";
+}
+.cmsms-demo-icon-piggy:before {
+  content: "\e91b";
+}
+.cmsms-demo-icon-safebox:before {
+  content: "\e91c";
+}
+.cmsms-demo-icon-smartphone:before {
+  content: "\e91d";
+}
+.cmsms-demo-icon-smartphone-2:before {
+  content: "\e91e";
+}
+.cmsms-demo-icon-tax:before {
+  content: "\e91f";
+}
+.cmsms-demo-icon-user:before {
+  content: "\e920";
+}
